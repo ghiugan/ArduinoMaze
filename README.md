@@ -10,13 +10,10 @@ and diagnosis purposes of coordination affected disorders such as Parkinson's Di
 Arduino Maze game can be used both in a fun manner to test your skills and for training of fine
 motor skills.
 
+# Final Project:
+![Image Alt Text](src/images/IMG_0360.png)
 
 
 # Video Demo:
 
 https://drive.google.com/file/d/1dE7NNohj5JVC02FpbIPPEX51dNQsvR0s/view?usp=sharing
-
-
-
-
-![Image Alt Text](tree.png)
